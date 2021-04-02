@@ -1,0 +1,13 @@
+*.h5
+.ipynb_checkpoints
+# *.jpg
+*logs
+*.pb
+*.data-00000-of-00001
+*.index
+*.mp4
+*.avi
+*.webm
+*.tflite
+*.weights
+*.vscode
